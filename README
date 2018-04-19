@@ -1,3 +1,4 @@
+Description
 This project is a simple database management system implemented by C++. It supports manapulations on large dataset. 
 The operations include merge, sort, compress dataset and retrieve target value in the large dataset.
 
